@@ -1,6 +1,8 @@
 body {
-  display: flex; /* bussinga! */
   color: #ddd;
   align-items: center;
   background-color: #181818;
+  /* bussinga! */
+  display: flex;
+  flex-direction: column;
 }
